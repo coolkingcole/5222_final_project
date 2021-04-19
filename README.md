@@ -26,6 +26,6 @@ Click _**Manage and install plugins...**_
 Click _**Install from Zip**_ and browse to downloaded zip
 ![image](./assets/step3.PNG)  
 
-### Usage  
+# Usage  
 Clicking the tool icon will prompt you for a folder. When the folder is provided by the user a dropdown menu will be filled with the \*.shp files in that directory.  
 Once a file is chosen the user will have to choose a NUMERIC field in the dropdown. Click OK. The plugin will automatically make a 5 class Choropleth map.
