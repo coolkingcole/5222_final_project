@@ -1,5 +1,10 @@
 # 5222_final_project
-Final for 5222 QGIS choropleth map maker(Project 2 prompt)
+Final for 5222 QGIS choropleth map maker(Project 2 prompt).  
+
+This will make a 5 class Choropleth map given a NUMERIC field.  
+
+\#TODO
+In the future there will be more error handling and the ability to change the number of classes or at least give a couple options to the user for number of classes and color schemes.
 
 # User Manual
 ### Installation  
