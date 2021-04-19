@@ -8,15 +8,15 @@ This should solve any "ModuleNotFoundError: No module named X" errors
 This plugin is installed via the .zip qgis plugin installation like any other plugin. Steps below-  
 
 ## Step1  
-Click plugin menu  
+Click *plugin menu*  
 ![image](./assets/step1.PNG)  
 
 ## Step2  
-Click plugin menu  
+Click *Manage and install plugins...*  
 ![image](./assets/step2.PNG)  
 
 ## Step3  
-Click plugin menu  
+Click *Install from Zip* and browse to downloaded zip
 ![image](./assets/step3.PNG)  
 
 ### Usage  
