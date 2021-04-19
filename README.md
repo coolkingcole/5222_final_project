@@ -13,7 +13,7 @@ This should solve any "ModuleNotFoundError: No module named X" errors
 
 
 This plugin is installed via the .zip qgis plugin installation like any other plugin.  
-## Steps below-
+## Steps below -  
 ## Step 0  
 Download the most resent zip from the release tab on the right.  
 
