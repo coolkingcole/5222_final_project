@@ -1,0 +1,11 @@
+Example 1.
+Example Field: intTotal
+https://gis.data.ca.gov/datasets/CDTFA::proptaxassessedvaluestate?geometry=-161.087%2C31.071%2C-77.459%2C43.276
+
+Example 2.
+Example Field: WIP_Capaci
+https://gis.data.ca.gov/datasets/SNC::wip-capacity-assessment-geographies?geometry=-140.898%2C35.547%2C-99.084%2C41.555
+
+Example 3.
+Example Field: RANK
+https://gis.data.ca.gov/datasets/SNC::sierra-nevada-old-growth-forests?geometry=-140.702%2C35.695%2C-98.888%2C41.691
